@@ -1,4 +1,4 @@
-module github.com/rwuniard/go_module_example/cmd/hello
+module github.com/rwuniard/go_module_example/cmd/main
 
 go 1.19
 
