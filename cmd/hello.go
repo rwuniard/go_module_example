@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"example.com/pkg/dog"
+	"github.com/rwuniard/go_module_example/pkg/dog"
 )
 
 func main() {
