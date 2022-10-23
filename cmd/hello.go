@@ -9,5 +9,5 @@ import (
 func main() {
 	dog_years := dog.Years(5)
 
-	fmt.Println(dog_years)
+	fmt.Println("Dog years : ", dog_years)
 }
