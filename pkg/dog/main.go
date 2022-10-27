@@ -5,3 +5,8 @@ package dog
 func Years(h int) int {
 	return h * 7
 }
+
+// Converting dog months to human months.
+func Month(h int) int {
+	return Years(h) * 12
+}
