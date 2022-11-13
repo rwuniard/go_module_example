@@ -1,4 +1,2 @@
-github.com/rwuniard/go_module_example/pkg/dog v0.0.0-20221023210217-ec26250561bf h1:NET73NCs9G8M3YUohdAYznrWr5reEAvfj+gII41nzbY=
-github.com/rwuniard/go_module_example/pkg/dog v0.0.0-20221023210217-ec26250561bf/go.mod h1:4b77aqGWqB61nMI+HY4Q0yeoDZTmBbgbrEnckMb4b0s=
-github.com/rwuniard/go_module_example/pkg/dog v0.0.0-20221023213021-fcd7dacb9596 h1:VJV36IwoIfaJjD+N9Zy+js8o3NTvp1/FPQNAiIK7QwI=
-github.com/rwuniard/go_module_example/pkg/dog v0.0.0-20221023213021-fcd7dacb9596/go.mod h1:4b77aqGWqB61nMI+HY4Q0yeoDZTmBbgbrEnckMb4b0s=
+github.com/rwuniard/go_module_example/pkg/dog v0.0.0-20221027215621-272b8b99b5c6 h1:Sv3rYASQr/+fh43th6L0xTF0bLvIc9epRJ2dpq9nsOc=
+github.com/rwuniard/go_module_example/pkg/dog v0.0.0-20221027215621-272b8b99b5c6/go.mod h1:4b77aqGWqB61nMI+HY4Q0yeoDZTmBbgbrEnckMb4b0s=
